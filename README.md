@@ -1,2 +1,2 @@
-# StatML - Team-Project
-통계적 머신러닝 수업 팀 과제 저장소
+# Chatbot
+사이드 프로젝트로 챗봇 구현 코드 공부
